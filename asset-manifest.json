@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/git%20remote%20add%20origin%20https://github.io/GulSam00/react_movie.git/static/css/main.693ef27b.chunk.css",
-    "main.js": "/git%20remote%20add%20origin%20https://github.io/GulSam00/react_movie.git/static/js/main.93db4abc.chunk.js",
-    "main.js.map": "/git%20remote%20add%20origin%20https://github.io/GulSam00/react_movie.git/static/js/main.93db4abc.chunk.js.map",
-    "runtime-main.js": "/git%20remote%20add%20origin%20https://github.io/GulSam00/react_movie.git/static/js/runtime-main.e1a9f4d2.js",
-    "runtime-main.js.map": "/git%20remote%20add%20origin%20https://github.io/GulSam00/react_movie.git/static/js/runtime-main.e1a9f4d2.js.map",
-    "static/js/2.e6ad5e20.chunk.js": "/git%20remote%20add%20origin%20https://github.io/GulSam00/react_movie.git/static/js/2.e6ad5e20.chunk.js",
-    "static/js/2.e6ad5e20.chunk.js.map": "/git%20remote%20add%20origin%20https://github.io/GulSam00/react_movie.git/static/js/2.e6ad5e20.chunk.js.map",
-    "static/js/3.faf9abbf.chunk.js": "/git%20remote%20add%20origin%20https://github.io/GulSam00/react_movie.git/static/js/3.faf9abbf.chunk.js",
-    "static/js/3.faf9abbf.chunk.js.map": "/git%20remote%20add%20origin%20https://github.io/GulSam00/react_movie.git/static/js/3.faf9abbf.chunk.js.map",
-    "index.html": "/git%20remote%20add%20origin%20https://github.io/GulSam00/react_movie.git/index.html",
-    "static/css/main.693ef27b.chunk.css.map": "/git%20remote%20add%20origin%20https://github.io/GulSam00/react_movie.git/static/css/main.693ef27b.chunk.css.map",
-    "static/js/2.e6ad5e20.chunk.js.LICENSE.txt": "/git%20remote%20add%20origin%20https://github.io/GulSam00/react_movie.git/static/js/2.e6ad5e20.chunk.js.LICENSE.txt"
+    "main.css": "/git%20remote%20add%20origin%20https://GulSam00.github.io/react_movie/static/css/main.693ef27b.chunk.css",
+    "main.js": "/git%20remote%20add%20origin%20https://GulSam00.github.io/react_movie/static/js/main.93db4abc.chunk.js",
+    "main.js.map": "/git%20remote%20add%20origin%20https://GulSam00.github.io/react_movie/static/js/main.93db4abc.chunk.js.map",
+    "runtime-main.js": "/git%20remote%20add%20origin%20https://GulSam00.github.io/react_movie/static/js/runtime-main.208f54cc.js",
+    "runtime-main.js.map": "/git%20remote%20add%20origin%20https://GulSam00.github.io/react_movie/static/js/runtime-main.208f54cc.js.map",
+    "static/js/2.e6ad5e20.chunk.js": "/git%20remote%20add%20origin%20https://GulSam00.github.io/react_movie/static/js/2.e6ad5e20.chunk.js",
+    "static/js/2.e6ad5e20.chunk.js.map": "/git%20remote%20add%20origin%20https://GulSam00.github.io/react_movie/static/js/2.e6ad5e20.chunk.js.map",
+    "static/js/3.faf9abbf.chunk.js": "/git%20remote%20add%20origin%20https://GulSam00.github.io/react_movie/static/js/3.faf9abbf.chunk.js",
+    "static/js/3.faf9abbf.chunk.js.map": "/git%20remote%20add%20origin%20https://GulSam00.github.io/react_movie/static/js/3.faf9abbf.chunk.js.map",
+    "index.html": "/git%20remote%20add%20origin%20https://GulSam00.github.io/react_movie/index.html",
+    "static/css/main.693ef27b.chunk.css.map": "/git%20remote%20add%20origin%20https://GulSam00.github.io/react_movie/static/css/main.693ef27b.chunk.css.map",
+    "static/js/2.e6ad5e20.chunk.js.LICENSE.txt": "/git%20remote%20add%20origin%20https://GulSam00.github.io/react_movie/static/js/2.e6ad5e20.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e1a9f4d2.js",
+    "static/js/runtime-main.208f54cc.js",
     "static/js/2.e6ad5e20.chunk.js",
     "static/css/main.693ef27b.chunk.css",
     "static/js/main.93db4abc.chunk.js"
